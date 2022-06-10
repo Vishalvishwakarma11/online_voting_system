@@ -18,7 +18,7 @@ body{
 </head>
 
 <body style="background-image: url('img/bg1.jpg'); ">
-<marquee>Welcome To Online Voting System Coded By MARUF</marquee>
+<marquee>Welcome To Online Voting System Coded By VISHAL</marquee>
 <center><font size='6' >
 <a href="voter.php">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="lan_view.php">Vote Results</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="profile.php">Profile</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="logout.php">Logout</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="change_pass.php">Change Password</a>
